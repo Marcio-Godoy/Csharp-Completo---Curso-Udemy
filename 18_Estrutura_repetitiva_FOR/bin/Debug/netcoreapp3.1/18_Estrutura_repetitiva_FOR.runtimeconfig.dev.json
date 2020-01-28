@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FBASOFTWARE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FBASOFTWARE\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

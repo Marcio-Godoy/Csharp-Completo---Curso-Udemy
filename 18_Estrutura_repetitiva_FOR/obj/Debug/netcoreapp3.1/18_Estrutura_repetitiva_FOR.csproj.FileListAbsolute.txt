@@ -1,0 +1,11 @@
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\bin\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.exe
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\bin\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.deps.json
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\bin\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.runtimeconfig.json
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\bin\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.runtimeconfig.dev.json
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\bin\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.dll
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\bin\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.pdb
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\obj\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.csprojAssemblyReference.cache
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\obj\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.AssemblyInfoInputs.cache
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\obj\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.AssemblyInfo.cs
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\obj\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.dll
+C:\Users\FBASOFTWARE\Desktop\Projetos Cursos\19_Estrutura_repetitiva_FOR\obj\Debug\netcoreapp3.1\18_Estrutura_repetitiva_FOR.pdb
