@@ -1,0 +1,11 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\bin\Debug\netcoreapp3.1\16_Funcoes.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\bin\Debug\netcoreapp3.1\16_Funcoes.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\bin\Debug\netcoreapp3.1\16_Funcoes.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\bin\Debug\netcoreapp3.1\16_Funcoes.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\bin\Debug\netcoreapp3.1\16_Funcoes.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\bin\Debug\netcoreapp3.1\16_Funcoes.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\obj\Debug\netcoreapp3.1\16_Funcoes.csprojAssemblyReference.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\obj\Debug\netcoreapp3.1\16_Funcoes.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\obj\Debug\netcoreapp3.1\16_Funcoes.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\obj\Debug\netcoreapp3.1\16_Funcoes.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\16_Funcoes\16_Funcoes\obj\Debug\netcoreapp3.1\16_Funcoes.pdb
