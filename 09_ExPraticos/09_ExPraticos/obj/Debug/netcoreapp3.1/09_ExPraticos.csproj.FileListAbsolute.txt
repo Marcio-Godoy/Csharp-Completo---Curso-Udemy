@@ -1,0 +1,10 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\bin\Debug\netcoreapp3.1\09_ExPraticos.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\bin\Debug\netcoreapp3.1\09_ExPraticos.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\bin\Debug\netcoreapp3.1\09_ExPraticos.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\bin\Debug\netcoreapp3.1\09_ExPraticos.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\bin\Debug\netcoreapp3.1\09_ExPraticos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\bin\Debug\netcoreapp3.1\09_ExPraticos.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\obj\Debug\netcoreapp3.1\09_ExPraticos.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\obj\Debug\netcoreapp3.1\09_ExPraticos.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\obj\Debug\netcoreapp3.1\09_ExPraticos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\09_ExPraticos\09_ExPraticos\obj\Debug\netcoreapp3.1\09_ExPraticos.pdb
