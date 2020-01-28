@@ -1,0 +1,11 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\bin\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\bin\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\bin\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\bin\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\bin\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\bin\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\obj\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.csprojAssemblyReference.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\obj\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\obj\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\obj\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\02_Tipos_de_dados_basicos\02_Tipos_de_dados_basicos\obj\Debug\netcoreapp3.1\02_Tipos_de_dados_basicos.pdb

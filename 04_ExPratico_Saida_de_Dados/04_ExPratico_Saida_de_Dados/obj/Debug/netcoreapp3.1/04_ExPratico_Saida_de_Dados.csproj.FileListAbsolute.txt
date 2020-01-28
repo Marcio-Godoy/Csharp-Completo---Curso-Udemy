@@ -1,0 +1,10 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\bin\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\bin\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\bin\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\bin\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\bin\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\bin\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\obj\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\obj\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\obj\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\04_ExPratico_Saida_de_Dados\04_ExPratico_Saida_de_Dados\obj\Debug\netcoreapp3.1\04_ExPratico_Saida_de_Dados.pdb
