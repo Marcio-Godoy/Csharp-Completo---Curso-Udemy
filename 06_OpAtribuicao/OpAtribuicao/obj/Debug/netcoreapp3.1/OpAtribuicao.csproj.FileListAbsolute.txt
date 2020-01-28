@@ -1,0 +1,10 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\obj\Debug\netcoreapp3.1\OpAtribuicao.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\obj\Debug\netcoreapp3.1\OpAtribuicao.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\bin\Debug\netcoreapp3.1\OpAtribuicao.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\bin\Debug\netcoreapp3.1\OpAtribuicao.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\bin\Debug\netcoreapp3.1\OpAtribuicao.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\bin\Debug\netcoreapp3.1\OpAtribuicao.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\bin\Debug\netcoreapp3.1\OpAtribuicao.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\bin\Debug\netcoreapp3.1\OpAtribuicao.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\obj\Debug\netcoreapp3.1\OpAtribuicao.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\OpAtribuicao\OpAtribuicao\obj\Debug\netcoreapp3.1\OpAtribuicao.pdb

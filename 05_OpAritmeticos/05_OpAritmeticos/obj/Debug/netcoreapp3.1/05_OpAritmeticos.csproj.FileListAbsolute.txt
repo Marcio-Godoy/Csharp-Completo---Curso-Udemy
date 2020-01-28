@@ -1,0 +1,11 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\bin\Debug\netcoreapp3.1\05_OpAritmeticos.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\bin\Debug\netcoreapp3.1\05_OpAritmeticos.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\bin\Debug\netcoreapp3.1\05_OpAritmeticos.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\bin\Debug\netcoreapp3.1\05_OpAritmeticos.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\bin\Debug\netcoreapp3.1\05_OpAritmeticos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\bin\Debug\netcoreapp3.1\05_OpAritmeticos.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\obj\Debug\netcoreapp3.1\05_OpAritmeticos.csprojAssemblyReference.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\obj\Debug\netcoreapp3.1\05_OpAritmeticos.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\obj\Debug\netcoreapp3.1\05_OpAritmeticos.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\obj\Debug\netcoreapp3.1\05_OpAritmeticos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\05_OpAritmeticos\05_OpAritmeticos\obj\Debug\netcoreapp3.1\05_OpAritmeticos.pdb
