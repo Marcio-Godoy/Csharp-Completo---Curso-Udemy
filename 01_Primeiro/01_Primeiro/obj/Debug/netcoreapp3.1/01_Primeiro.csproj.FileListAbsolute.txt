@@ -1,0 +1,11 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\bin\Debug\netcoreapp3.1\01_Primeiro.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\bin\Debug\netcoreapp3.1\01_Primeiro.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\bin\Debug\netcoreapp3.1\01_Primeiro.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\bin\Debug\netcoreapp3.1\01_Primeiro.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\bin\Debug\netcoreapp3.1\01_Primeiro.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\bin\Debug\netcoreapp3.1\01_Primeiro.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\obj\Debug\netcoreapp3.1\01_Primeiro.csprojAssemblyReference.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\obj\Debug\netcoreapp3.1\01_Primeiro.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\obj\Debug\netcoreapp3.1\01_Primeiro.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\obj\Debug\netcoreapp3.1\01_Primeiro.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\01_Primeiro\01_Primeiro\obj\Debug\netcoreapp3.1\01_Primeiro.pdb
