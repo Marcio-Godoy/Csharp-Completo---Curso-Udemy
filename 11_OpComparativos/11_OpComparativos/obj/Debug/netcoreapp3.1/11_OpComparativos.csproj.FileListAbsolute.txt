@@ -1,0 +1,11 @@
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\bin\Debug\netcoreapp3.1\11_OpComparativos.exe
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\bin\Debug\netcoreapp3.1\11_OpComparativos.deps.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\bin\Debug\netcoreapp3.1\11_OpComparativos.runtimeconfig.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\bin\Debug\netcoreapp3.1\11_OpComparativos.runtimeconfig.dev.json
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\bin\Debug\netcoreapp3.1\11_OpComparativos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\bin\Debug\netcoreapp3.1\11_OpComparativos.pdb
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\obj\Debug\netcoreapp3.1\11_OpComparativos.csprojAssemblyReference.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\obj\Debug\netcoreapp3.1\11_OpComparativos.AssemblyInfoInputs.cache
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\obj\Debug\netcoreapp3.1\11_OpComparativos.AssemblyInfo.cs
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\obj\Debug\netcoreapp3.1\11_OpComparativos.dll
+D:\BACKUPS\Cursos Geral\Exercicios - Cursos\Desktop\C#\C# Completo 2020\Exercicios\11_OpComparativos\11_OpComparativos\obj\Debug\netcoreapp3.1\11_OpComparativos.pdb
